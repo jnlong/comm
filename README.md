@@ -2,7 +2,7 @@
 收集前端常用类库、框架
 
 1. 响应式布局：
-*bootstrap
+* bootstrap
 
 1. copy文本到系统剪切板
 *clipboard
